@@ -1,0 +1,893 @@
+[
+    {
+        "name": "Aberystwyth University",
+        "domains": "aber.ac.uk",
+        "grid": "grid.8186.7",
+        "ror": "https://ror.org/015m2p889",
+        "ringgold": "1026",
+        "lastUpdate": 1637302737,
+        "lastOrcidCount": 1044
+    },
+    {
+        "name": "Anglia Ruskin University",
+        "domains": "anglia.ac.uk",
+        "grid": "grid.5115.0",
+        "ror": "https://ror.org/0009t4v78",
+        "ringgold": "2369",
+        "lastUpdate": 1637360619.631807,
+        "lastOrcidCount": 496
+    },
+    {
+        "name": "Aston University",
+        "domains": "aston.ac.uk",
+        "grid": "grid.7273.1",
+        "ror": "https://ror.org/05j0ve876",
+        "ringgold": "1722",
+        "lastUpdate": 1637274682,
+        "lastOrcidCount": 1409
+    },
+    {
+        "name": "Birmingham City University",
+        "domains": "bcu.ac.uk",
+        "grid": "grid.19822.30",
+        "ror": "https://ror.org/00t67pt25",
+        "ringgold": "1725",
+        "lastUpdate": 1637274685,
+        "lastOrcidCount": 615
+    },
+    {
+        "name": "Bournemouth University",
+        "domains": "bournemouth.ac.uk",
+        "grid": "grid.17236.31",
+        "ror": "https://ror.org/05wwcw481",
+        "ringgold": "6657",
+        "lastUpdate": 1637274685,
+        "lastOrcidCount": 725
+    },
+    {
+        "name": "Brunel University",
+        "domains": "brunel.ac.uk",
+        "grid": "grid.7728.a",
+        "ror": "https://ror.org/00dn4t376",
+        "ringgold": "3890",
+        "lastUpdate": 1637302922,
+        "lastOrcidCount": 1406
+    },
+    {
+        "name": "Cardiff University",
+        "domains": "cardiff.ac.uk",
+        "grid": "grid.5600.3",
+        "ror": "https://ror.org/03kk7td41",
+        "ringgold": "2112",
+        "lastUpdate": 1637303220,
+        "lastOrcidCount": 4408
+    },
+    {
+        "name": "City, University of London",
+        "domains": "web.city.ac.uk|city.ac.uk",
+        "grid": "grid.28577.3f",
+        "ror": "https://ror.org/04489at23",
+        "ringgold": "4895",
+        "lastUpdate": 1637360724.5110772,
+        "lastOrcidCount": 1248
+    },
+    {
+        "name": "Coventry University",
+        "domains": "coventry.ac.uk",
+        "grid": "grid.8096.7",
+        "ror": "https://ror.org/01tgmhj36",
+        "ringgold": "2706",
+        "lastUpdate": 1637318087,
+        "lastOrcidCount": 2344
+    },
+    {
+        "name": "Cranfield University",
+        "domains": "cranfield.ac.uk",
+        "grid": "grid.12026.37",
+        "ror": "https://ror.org/05cncd958",
+        "ringgold": "2717",
+        "lastUpdate": 1637360868.967754,
+        "lastOrcidCount": 1620
+    },
+    {
+        "name": "De Montfort University",
+        "domains": "dmu.ac.uk",
+        "grid": "grid.48815.30",
+        "ror": "https://ror.org/0312pnr83",
+        "ringgold": "4487",
+        "lastUpdate": 1637274696,
+        "lastOrcidCount": 1134
+    },
+    {
+        "name": "Diamond Light Source",
+        "domains": "diamond.ac.uk",
+        "grid": "grid.18785.33",
+        "ror": "https://ror.org/05etxs293",
+        "ringgold": "120796",
+        "lastUpdate": 1637360889.7214668,
+        "lastOrcidCount": 227
+    },
+    {
+        "name": "Durham University",
+        "domains": "durham.ac.uk",
+        "grid": "grid.8250.f",
+        "ror": "https://ror.org/01v29qb04",
+        "ringgold": "3057",
+        "lastUpdate": 1637303529,
+        "lastOrcidCount": 3628
+    },
+    {
+        "name": "Edge Hill University",
+        "domains": "edgehill.ac.uk|ehche.ac.uk",
+        "grid": "grid.255434.1",
+        "ror": "https://ror.org/028ndzd53",
+        "ringgold": "6249",
+        "lastUpdate": 1637274699,
+        "lastOrcidCount": 614
+    },
+    {
+        "name": "Francis Crick Institute",
+        "domains": "crick.ac.uk",
+        "grid": "grid.451388.3",
+        "ror": "https://ror.org/04tnbqb63",
+        "ringgold": "376570",
+        "lastUpdate": 1637360975.767009,
+        "lastOrcidCount": 843
+    },
+    {
+        "name": "Heriot-Watt University",
+        "domains": "hw.ac.uk",
+        "grid": "grid.9531.e",
+        "ror": "https://ror.org/04mghma93",
+        "ringgold": "3120",
+        "lastUpdate": 1637361093.420063,
+        "lastOrcidCount": 1602
+    },
+    {
+        "name": "Imperial College London",
+        "domains": "imperial.ac.uk",
+        "grid": "grid.7445.2",
+        "ror": "https://ror.org/041kmwe10",
+        "ringgold": "4615",
+        "lastUpdate": 1637318650,
+        "lastOrcidCount": 9722
+    },
+    {
+        "name": "Institute of Cancer Research",
+        "domains": "icr.ac.uk",
+        "grid": "grid.18886.3f",
+        "ror": "https://ror.org/043jzw605",
+        "ringgold": "5053",
+        "lastUpdate": 1637274720,
+        "lastOrcidCount": 500
+    },
+    {
+        "name": "Keele University",
+        "domains": "keele.ac.uk",
+        "grid": "grid.9757.c",
+        "ror": "https://ror.org/00340yn33",
+        "ringgold": "4212",
+        "lastUpdate": 1637274721,
+        "lastOrcidCount": 1124
+    },
+    {
+        "name": "King\"s College London",
+        "domains": "kcl.ac.uk",
+        "grid": "grid.13097.3c",
+        "ror": "https://ror.org/0220mzb33",
+        "ringgold": "4616",
+        "lastUpdate": 1637274728,
+        "lastOrcidCount": 7516
+    },
+    {
+        "name": "Kingston University",
+        "domains": "kingston.ac.uk",
+        "grid": "grid.15538.3a",
+        "ror": "https://ror.org/05bbqza97",
+        "ringgold": "4264",
+        "lastUpdate": 1637361145.919851,
+        "lastOrcidCount": 913
+    },
+    {
+        "name": "Lancaster University",
+        "domains": "lancs.ac.uk|lancaster.ac.uk",
+        "grid": "grid.9835.7",
+        "ror": "https://ror.org/04f2nsd36",
+        "ringgold": "4396",
+        "lastUpdate": 1637318787,
+        "lastOrcidCount": 2640
+    },
+    {
+        "name": "Leeds Beckett University",
+        "domains": "leedsbeckett.ac.uk",
+        "grid": "grid.10346.30",
+        "ror": "https://ror.org/02xsh5r57",
+        "ringgold": "4467",
+        "lastUpdate": 1637274732,
+        "lastOrcidCount": 747
+    },
+    {
+        "name": "Liverpool Hope University",
+        "domains": "hope.ac.uk",
+        "grid": "grid.146189.3",
+        "ror": "https://ror.org/03ctjbj91",
+        "ringgold": "4588",
+        "lastUpdate": 1637274732,
+        "lastOrcidCount": 258
+    },
+    {
+        "name": "Liverpool John Moores University",
+        "domains": "ljmu.ac.uk",
+        "grid": "grid.4425.7",
+        "ror": "https://ror.org/04zfme737",
+        "ringgold": "4589",
+        "lastUpdate": 1637318848,
+        "lastOrcidCount": 1178
+    },
+    {
+        "name": "Liverpool School of Tropical Medicine",
+        "domains": "lstmed.ac.uk",
+        "grid": "grid.48004.38",
+        "ror": "https://ror.org/03svjbs84",
+        "ringgold": "9655",
+        "lastUpdate": 1637274733,
+        "lastOrcidCount": 609
+    },
+    {
+        "name": "London Business School",
+        "domains": "london.edu|lbs.lon.ac.uk",
+        "grid": "grid.14868.33",
+        "ror": "https://ror.org/001c2sn75",
+        "ringgold": "4092",
+        "lastUpdate": 1637274734,
+        "lastOrcidCount": 47
+    },
+    {
+        "name": "London School of Economics & Political Science",
+        "domains": "lse.ac.uk",
+        "grid": "grid.13063.37",
+        "ror": "https://ror.org/0090zs177",
+        "ringgold": "4905",
+        "lastUpdate": 1637319022,
+        "lastOrcidCount": 3123
+    },
+    {
+        "name": "London School of Hygiene & Tropical Medicine",
+        "domains": "lshtm.ac.uk",
+        "grid": "grid.8991.9",
+        "ror": "https://ror.org/00a0jsq62",
+        "ringgold": "4906",
+        "lastUpdate": 1637319188,
+        "lastOrcidCount": 2813
+    },
+    {
+        "name": "London South Bank University",
+        "domains": "southbank-university.ac.uk|lsbu.ac.uk",
+        "grid": "grid.4756.0",
+        "ror": "https://ror.org/02vwnat91",
+        "ringgold": "4914",
+        "lastUpdate": 1637274740,
+        "lastOrcidCount": 687
+    },
+    {
+        "name": "Loughborough University",
+        "domains": "lboro.ac.uk",
+        "grid": "grid.6571.5",
+        "ror": "https://ror.org/04vg4w365",
+        "ringgold": "5156",
+        "lastUpdate": 1637304326,
+        "lastOrcidCount": 2542
+    },
+    {
+        "name": "Manchester Metropolitan University",
+        "domains": "mmu.ac.uk",
+        "grid": "grid.25627.34",
+        "ror": "https://ror.org/02hstj355",
+        "ringgold": "5289",
+        "lastUpdate": 1637274743,
+        "lastOrcidCount": 1627
+    },
+    {
+        "name": "Middlesex University",
+        "domains": "mdx.ac.uk",
+        "grid": "grid.15822.3c",
+        "ror": "https://ror.org/01rv4p989",
+        "ringgold": "4907",
+        "lastUpdate": 1637319240,
+        "lastOrcidCount": 1031
+    },
+    {
+        "name": "Newcastle University",
+        "domains": "ncl.ac.uk",
+        "grid": "grid.1006.7",
+        "ror": "https://ror.org/01kj2bm70",
+        "ringgold": "5994",
+        "lastUpdate": 1637304765,
+        "lastOrcidCount": 5083
+    },
+    {
+        "name": "Northumbria University",
+        "domains": "unn.ac.uk|northumbria.ac.uk",
+        "grid": "grid.42629.3b",
+        "ror": "https://ror.org/049e6bc10",
+        "ringgold": "5995",
+        "lastUpdate": 1637304899,
+        "lastOrcidCount": 1985
+    },
+    {
+        "name": "Nottingham Trent University",
+        "domains": "ntu.ac.uk",
+        "grid": "grid.12361.37",
+        "ror": "https://ror.org/04xyxjd90",
+        "ringgold": "6122",
+        "lastUpdate": 1637274751,
+        "lastOrcidCount": 1590
+    },
+    {
+        "name": "Queen\"s University Belfast",
+        "domains": "qub.ac.uk",
+        "grid": "grid.4777.3",
+        "ror": "https://ror.org/00hswnk62",
+        "ringgold": "1596",
+        "lastUpdate": 1637361323.771845,
+        "lastOrcidCount": 2424
+    },
+    {
+        "name": "Robert Gordon University",
+        "domains": "rgu.ac.uk",
+        "grid": "grid.59490.31",
+        "ror": "https://ror.org/04f0qj703",
+        "ringgold": "1018",
+        "lastUpdate": 1637305399,
+        "lastOrcidCount": 697
+    },
+    {
+        "name": "Rothamsted Research",
+        "domains": "rothamsted.ac.uk",
+        "grid": "grid.418374.d",
+        "ror": "https://ror.org/0347fy350",
+        "ringgold": "15552",
+        "lastUpdate": 1637361354.523961,
+        "lastOrcidCount": 305
+    },
+    {
+        "name": "Royal College of Art",
+        "domains": "rca.ac.uk",
+        "grid": "grid.42167.36",
+        "ror": "https://ror.org/01egahc47",
+        "ringgold": "4910",
+        "lastUpdate": 1637274758,
+        "lastOrcidCount": 332
+    },
+    {
+        "name": "Royal Veterinary College, University of London",
+        "domains": "rvc.ac.uk",
+        "grid": "grid.20931.39",
+        "ror": "https://ror.org/01wka8n18",
+        "ringgold": "4912",
+        "lastUpdate": 1637361390.9058938,
+        "lastOrcidCount": 532
+    },
+    {
+        "name": "School of Advanced Study, University of London",
+        "domains": "sas.ac.uk",
+        "grid": "grid.467451.5",
+        "ror": "https://ror.org/039594g80",
+        "ringgold": "9758",
+        "lastUpdate": 1637361396.3649752,
+        "lastOrcidCount": 76
+    },
+    {
+        "name": "School of Oriental and African Studies",
+        "domains": "soas.ac.uk",
+        "grid": "grid.22631.34",
+        "ror": "https://ror.org/04vrxay34",
+        "ringgold": "4913",
+        "lastUpdate": 1637361441.239378,
+        "lastOrcidCount": 906
+    },
+    {
+        "name": "Scottish Agricultural College",
+        "domains": "sruc.ac.uk",
+        "grid": "grid.426884.4",
+        "ror": "https://ror.org/044e2ja82",
+        "ringgold": "3123",
+        "lastUpdate": 1637274760,
+        "lastOrcidCount": 190
+    },
+    {
+        "name": "Sheffield Hallam University",
+        "domains": "shu.ac.uk",
+        "grid": "grid.5884.1",
+        "ror": "https://ror.org/019wt1929",
+        "ringgold": "7314",
+        "lastUpdate": 1637274761,
+        "lastOrcidCount": 1405
+    },
+    {
+        "name": "St Mary\"s University College, Twickenham",
+        "domains": "stmarys.ac.uk|smuc.ac.uk",
+        "grid": "grid.417907.c",
+        "ror": "https://ror.org/0067fqk38",
+        "ringgold": "62693",
+        "lastUpdate": 1637274762,
+        "lastOrcidCount": 117
+    },
+    {
+        "name": "Swansea University",
+        "domains": "swansea.ac.uk",
+        "grid": "grid.4827.9",
+        "ror": "https://ror.org/053fq8t95",
+        "ringgold": "7759",
+        "lastUpdate": 1637319400,
+        "lastOrcidCount": 1832
+    },
+    {
+        "name": "Teesside University",
+        "domains": "tees.ac.uk",
+        "grid": "grid.26597.3f",
+        "ror": "https://ror.org/03z28gk75",
+        "ringgold": "5462",
+        "lastUpdate": 1637361473.1104,
+        "lastOrcidCount": 545
+    },
+    {
+        "name": "The Open University",
+        "domains": "open.ac.uk",
+        "grid": "grid.10837.3d",
+        "ror": "https://ror.org/05mzfcs16",
+        "ringgold": "5488",
+        "lastUpdate": 1637305767,
+        "lastOrcidCount": 2841
+    },
+    {
+        "name": "UK Research and Innovation",
+        "domains": "ukri.org",
+        "grid": "grid.496779.2",
+        "ror": "https://ror.org/001aqnf71",
+        "ringgold": null,
+        "lastUpdate": 1637361532.091171,
+        "lastOrcidCount": 269
+    },
+    {
+        "name": "University College London - UCL",
+        "domains": "ucl.ac.uk",
+        "grid": "grid.83440.3b",
+        "ror": "https://ror.org/02jx3x895",
+        "ringgold": "4919|4901",
+        "lastUpdate": 1637320237,
+        "lastOrcidCount": 14583
+    },
+    {
+        "name": "University of Aberdeen",
+        "domains": "abdn.ac.uk",
+        "grid": "grid.7107.1",
+        "ror": "https://ror.org/016476m91",
+        "ringgold": "1019",
+        "lastUpdate": 1637274792,
+        "lastOrcidCount": 3203
+    },
+    {
+        "name": "University of Abertay Dundee",
+        "domains": "abertay.ac.uk",
+        "grid": "grid.44361.34",
+        "ror": "https://ror.org/04mwwnx67",
+        "ringgold": "3041",
+        "lastUpdate": 1637307024,
+        "lastOrcidCount": 323
+    },
+    {
+        "name": "University of Bath",
+        "domains": "bath.ac.uk",
+        "grid": "grid.7340.0",
+        "ror": "https://ror.org/002h8g185",
+        "ringgold": "1555",
+        "lastUpdate": 1637307247,
+        "lastOrcidCount": 2682
+    },
+    {
+        "name": "University of Birmingham",
+        "domains": "bham.ac.uk|birmingham.ac.uk",
+        "grid": "grid.6572.6",
+        "ror": "https://ror.org/03angcq70",
+        "ringgold": "1724",
+        "lastUpdate": 1637320655,
+        "lastOrcidCount": 7282
+    },
+    {
+        "name": "University of Bolton",
+        "domains": "bolton.ac.uk",
+        "grid": "grid.36076.34",
+        "ror": "https://ror.org/01t884y44",
+        "ringgold": "1796",
+        "lastUpdate": 1637274804,
+        "lastOrcidCount": 446
+    },
+    {
+        "name": "University of Bradford",
+        "domains": "brad.ac.uk",
+        "grid": "grid.6268.a",
+        "ror": "https://ror.org/00vs8d940",
+        "ringgold": "1905",
+        "lastUpdate": 1637274805,
+        "lastOrcidCount": 1291
+    },
+    {
+        "name": "University of Brighton",
+        "domains": "brighton.ac.uk|bton.ac.uk",
+        "grid": "grid.12477.37",
+        "ror": "https://ror.org/04kp2b655",
+        "ringgold": "1947",
+        "lastUpdate": 1637274805,
+        "lastOrcidCount": 869
+    },
+    {
+        "name": "University of Buckingham",
+        "domains": "buckingham.ac.uk",
+        "grid": "grid.90685.32",
+        "ror": "https://ror.org/03kd28f18",
+        "ringgold": "2060",
+        "lastUpdate": 1637361547.8685539,
+        "lastOrcidCount": 162
+    },
+    {
+        "name": "University of Cambridge",
+        "domains": "cam.ac.uk",
+        "grid": "grid.5335.0",
+        "ror": "https://ror.org/013meh722",
+        "ringgold": "2152",
+        "lastUpdate": 1637323442,
+        "lastOrcidCount": 17271
+    },
+    {
+        "name": "University of Central Lancashire",
+        "domains": "uclan.ac.uk",
+        "grid": "grid.7943.9",
+        "ror": "https://ror.org/010jbqd54",
+        "ringgold": "6723",
+        "lastUpdate": 1637274871,
+        "lastOrcidCount": 1217
+    },
+    {
+        "name": "University of Derby",
+        "domains": "derby.ac.uk",
+        "grid": "grid.57686.3a",
+        "ror": "https://ror.org/02yhrrk59",
+        "ringgold": "2939",
+        "lastUpdate": 1637309878,
+        "lastOrcidCount": 837
+    },
+    {
+        "name": "University of East Anglia - UEA",
+        "domains": "uea.ac.uk",
+        "grid": "grid.8273.e",
+        "ror": "https://ror.org/026k5mg93",
+        "ringgold": "6106",
+        "lastUpdate": 1637274875,
+        "lastOrcidCount": 2550
+    },
+    {
+        "name": "University of Edinburgh",
+        "domains": "ed.ac.uk",
+        "grid": "grid.4305.2",
+        "ror": "https://ror.org/01nrxwf90",
+        "ringgold": "3124",
+        "lastUpdate": 1637325692,
+        "lastOrcidCount": 7790
+    },
+    {
+        "name": "University of Essex",
+        "domains": "essex.ac.uk",
+        "grid": "grid.8356.8",
+        "ror": "https://ror.org/02nkf1q06",
+        "ringgold": "2591",
+        "lastUpdate": 1637274885,
+        "lastOrcidCount": 2114
+    },
+    {
+        "name": "University of Exeter",
+        "domains": "info.ex.ac.uk|exeter.ac.uk",
+        "grid": "grid.8391.3",
+        "ror": "https://ror.org/03yghzc09",
+        "ringgold": "3286",
+        "lastUpdate": 1637325870,
+        "lastOrcidCount": 3516
+    },
+    {
+        "name": "University of Glasgow",
+        "domains": "gla.ac.uk",
+        "grid": "grid.8756.c",
+        "ror": "https://ror.org/00vtgdb53",
+        "ringgold": "3526",
+        "lastUpdate": 1637274896,
+        "lastOrcidCount": 7502
+    },
+    {
+        "name": "University of Greenwich",
+        "domains": "gre.ac.uk",
+        "grid": "grid.36316.31",
+        "ror": "https://ror.org/00bmj0a71",
+        "ringgold": "4918",
+        "lastUpdate": 1637274897,
+        "lastOrcidCount": 1171
+    },
+    {
+        "name": "University of Hertfordshire",
+        "domains": "herts.ac.uk",
+        "grid": "grid.5846.f",
+        "ror": "https://ror.org/0267vjk41",
+        "ringgold": "3769",
+        "lastUpdate": 1637310669,
+        "lastOrcidCount": 1032
+    },
+    {
+        "name": "University of Huddersfield",
+        "domains": "hud.ac.uk",
+        "grid": "grid.15751.37",
+        "ror": "https://ror.org/05t1h8f27",
+        "ringgold": "4013",
+        "lastUpdate": 1637325941,
+        "lastOrcidCount": 1429
+    },
+    {
+        "name": "University of Hull",
+        "domains": "hull.ac.uk",
+        "grid": "grid.9481.4",
+        "ror": "https://ror.org/04nkhwh30",
+        "ringgold": "4019",
+        "lastUpdate": 1637274899,
+        "lastOrcidCount": 1557
+    },
+    {
+        "name": "University of Kent",
+        "domains": "kent.ac.uk|ukc.ac.uk",
+        "grid": "grid.9759.2",
+        "ror": "https://ror.org/00xkeyj56",
+        "ringgold": "2240",
+        "lastUpdate": 1637310797,
+        "lastOrcidCount": 2279
+    },
+    {
+        "name": "University of Leeds",
+        "domains": "leeds.ac.uk",
+        "grid": "grid.9909.9",
+        "ror": "https://ror.org/024mrxd33",
+        "ringgold": "4468",
+        "lastUpdate": 1637311268,
+        "lastOrcidCount": 7293
+    },
+    {
+        "name": "University of Leicester",
+        "domains": "le.ac.uk",
+        "grid": "grid.9918.9",
+        "ror": "https://ror.org/04h699437",
+        "ringgold": "4488",
+        "lastUpdate": 1637326123,
+        "lastOrcidCount": 3534
+    },
+    {
+        "name": "University of Lincoln",
+        "domains": "lincoln.ac.uk|humber.ac.uk",
+        "grid": "grid.36511.30",
+        "ror": "https://ror.org/03yeq9x20",
+        "ringgold": "4547",
+        "lastUpdate": 1637274912,
+        "lastOrcidCount": 1044
+    },
+    {
+        "name": "University of Liverpool",
+        "domains": "liv.ac.uk|liverpool.ac.uk",
+        "grid": "grid.10025.36",
+        "ror": "https://ror.org/04xs57h96",
+        "ringgold": "4591",
+        "lastUpdate": 1637326403,
+        "lastOrcidCount": 5091
+    },
+    {
+        "name": "University of Manchester",
+        "domains": "manchester.ac.uk",
+        "grid": "grid.5379.8",
+        "ror": "https://ror.org/027m9bs27",
+        "ringgold": "5292",
+        "lastUpdate": 1637274933,
+        "lastOrcidCount": 10039
+    },
+    {
+        "name": "University of Northampton",
+        "domains": "northampton.ac.uk|nene.ac.uk",
+        "grid": "grid.44870.3f",
+        "ror": "https://ror.org/04jp2hx10",
+        "ringgold": "6087",
+        "lastUpdate": 1637274934,
+        "lastOrcidCount": 670
+    },
+    {
+        "name": "University of Nottingham",
+        "domains": "nott.ac.uk|nottingham.ac.uk",
+        "grid": "grid.4563.4",
+        "ror": "https://ror.org/01ee9ar58",
+        "ringgold": "6123",
+        "lastUpdate": 1637326807,
+        "lastOrcidCount": 7882
+    },
+    {
+        "name": "University of Oxford",
+        "domains": "ox.ac.uk",
+        "grid": "grid.4991.5",
+        "ror": "https://ror.org/052gg0110",
+        "ringgold": "6396",
+        "lastUpdate": 1637274941,
+        "lastOrcidCount": 0
+    },
+    {
+        "name": "University of Plymouth",
+        "domains": "plymouth.ac.uk",
+        "grid": "grid.11201.33",
+        "ror": "https://ror.org/008n7pv89",
+        "ringgold": "6633",
+        "lastUpdate": 1637274942,
+        "lastOrcidCount": 1651
+    },
+    {
+        "name": "University of Portsmouth",
+        "domains": "port.ac.uk",
+        "grid": "grid.4701.2",
+        "ror": "https://ror.org/03ykbk197",
+        "ringgold": "6697",
+        "lastUpdate": 1637274943,
+        "lastOrcidCount": 1494
+    },
+    {
+        "name": "University of Reading",
+        "domains": "rdg.ac.uk|reading.ac.uk",
+        "grid": "grid.9435.b",
+        "ror": "https://ror.org/05v62cm79",
+        "ringgold": "6816",
+        "lastUpdate": 1637274946,
+        "lastOrcidCount": 3319
+    },
+    {
+        "name": "Roehampton University",
+        "domains": "roehampton.ac.uk",
+        "grid": "grid.35349.38",
+        "ror": "https://ror.org/043071f54",
+        "ringgold": "4920",
+        "lastUpdate": 1637361600.3770728,
+        "lastOrcidCount": 730
+    },
+    {
+        "name": "University of Salford",
+        "domains": "salford.ac.uk",
+        "grid": "grid.8752.8",
+        "ror": "https://ror.org/01tmqtf75",
+        "ringgold": "7046",
+        "lastUpdate": 1637311377,
+        "lastOrcidCount": 1873
+    },
+    {
+        "name": "University of Sheffield",
+        "domains": "sheffield.ac.uk|shef.ac.uk",
+        "grid": "grid.11835.3e",
+        "ror": "https://ror.org/05krs5044",
+        "ringgold": "7315",
+        "lastUpdate": 1637274953,
+        "lastOrcidCount": 6191
+    },
+    {
+        "name": "University of Southampton",
+        "domains": "southampton.ac.uk",
+        "grid": "grid.5491.9",
+        "ror": "https://ror.org/01ryk1543",
+        "ringgold": "7423",
+        "lastUpdate": 1637274963,
+        "lastOrcidCount": 6579
+    },
+    {
+        "name": "University of St Andrews",
+        "domains": "st-andrews.ac.uk",
+        "grid": "grid.11914.3c",
+        "ror": "https://ror.org/02wn5qz54",
+        "ringgold": "7486",
+        "lastUpdate": 1637326879,
+        "lastOrcidCount": 998
+    },
+    {
+        "name": "University of Stirling",
+        "domains": "stir.ac.uk",
+        "grid": "grid.11918.30",
+        "ror": "https://ror.org/045wgfr59",
+        "ringgold": "7622",
+        "lastUpdate": 1637311458,
+        "lastOrcidCount": 1261
+    },
+    {
+        "name": "University of Strathclyde",
+        "domains": "strath.ac.uk",
+        "grid": "grid.11984.35",
+        "ror": "https://ror.org/00n3w3b69",
+        "ringgold": "3527",
+        "lastUpdate": 1637311651,
+        "lastOrcidCount": 2829
+    },
+    {
+        "name": "University of Surrey",
+        "domains": "surrey.ac.uk",
+        "grid": "grid.5475.3",
+        "ror": "https://ror.org/00ks66431",
+        "ringgold": "3660",
+        "lastUpdate": 1637327038,
+        "lastOrcidCount": 2705
+    },
+    {
+        "name": "University of Sussex",
+        "domains": "sussex.ac.uk",
+        "grid": "grid.12082.39",
+        "ror": "https://ror.org/00ayhx656",
+        "ringgold": "1948",
+        "lastUpdate": 1637274973,
+        "lastOrcidCount": 3135
+    },
+    {
+        "name": "University of the West of Scotland",
+        "domains": "uws.ac.uk",
+        "grid": "grid.15756.30",
+        "ror": "https://ror.org/04w3d2v20",
+        "ringgold": "6413",
+        "lastUpdate": 1637274975,
+        "lastOrcidCount": 571
+    },
+    {
+        "name": "University of West London",
+        "domains": "uwl.ac.uk",
+        "grid": "grid.81800.31",
+        "ror": "https://ror.org/03e5mzp60",
+        "ringgold": "7364",
+        "lastUpdate": 1637361614.858306,
+        "lastOrcidCount": 212
+    },
+    {
+        "name": "University of Westminster",
+        "domains": "westminster.ac.uk",
+        "grid": "grid.12896.34",
+        "ror": "https://ror.org/04ycpbx82",
+        "ringgold": "4921",
+        "lastUpdate": 1637327081,
+        "lastOrcidCount": 849
+    },
+    {
+        "name": "University of Wolverhampton",
+        "domains": "wlv.ac.uk",
+        "grid": "grid.6374.6",
+        "ror": "https://ror.org/01k2y1055",
+        "ringgold": "8695",
+        "lastUpdate": 1637274980,
+        "lastOrcidCount": 722
+    },
+    {
+        "name": "University of Worcester",
+        "domains": "worcester.ac.uk",
+        "grid": "grid.189530.6",
+        "ror": "https://ror.org/00v6s9648",
+        "ringgold": "8709",
+        "lastUpdate": 1637274980,
+        "lastOrcidCount": 313
+    },
+    {
+        "name": "University of York",
+        "domains": "york.ac.uk",
+        "grid": "grid.5685.e",
+        "ror": "https://ror.org/04m01e293",
+        "ringgold": "8748",
+        "lastUpdate": 1637327299,
+        "lastOrcidCount": 4362
+    },
+    {
+        "name": "York St John University",
+        "domains": "yorksj.ac.uk",
+        "grid": "grid.23695.3b",
+        "ror": "https://ror.org/00z5fkj61",
+        "ringgold": "41872",
+        "lastUpdate": 1637274985,
+        "lastOrcidCount": 162
+    }
+]
