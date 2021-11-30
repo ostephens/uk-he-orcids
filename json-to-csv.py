@@ -11,8 +11,10 @@ def convertToCsv(jsonFileName,csvFileName) :
     with open(csvFileName, 'w', newline='') as csvfile :
         with open(jsonFileName, 'r') as orcidJson :
             orcidRecords = json.load(orcidJson)
+            fieldnames = ['orcid', 'lastUpdated','name','educations','employments','ids','emails','workCount']
+            csvWriter = csv.writer(csvfile)
+            csvWriter.writerow(fieldnames)
             for orcidRecord in orcidRecords :
-                csvWriter = csv.writer(csvfile)
                 csvWriter.writerow(generateCsvRow(orcidRecord))
 
 def generateCsvRow(orcid) :
