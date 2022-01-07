@@ -68,8 +68,8 @@
         "grid": "grid.28577.3f",
         "ror": "https://ror.org/04489at23",
         "ringgold": "4895",
-        "lastUpdate": 1638266730.361114,
-        "lastOrcidCount": 1256
+        "lastUpdate": 1638288112.215252,
+        "lastOrcidCount": 1258
     },
     {
         "name": "Coventry University",
@@ -203,8 +203,8 @@
         "grid": "grid.10346.30",
         "ror": "https://ror.org/02xsh5r57",
         "ringgold": "4467",
-        "lastUpdate": 1638269450.703927,
-        "lastOrcidCount": 749
+        "lastUpdate": 1638288156.0032709,
+        "lastOrcidCount": 750
     },
     {
         "name": "Liverpool Hope University",
@@ -392,8 +392,8 @@
         "grid": "grid.426884.4",
         "ror": "https://ror.org/044e2ja82",
         "ringgold": "3123",
-        "lastUpdate": 1638271365.6407092,
-        "lastOrcidCount": 190
+        "lastUpdate": 1638288185.720662,
+        "lastOrcidCount": 191
     },
     {
         "name": "Sheffield Hallam University",
@@ -455,8 +455,8 @@
         "grid": "grid.12641.30",
         "ror": "https://ror.org/01yp9g959",
         "ringgold": "2596",
-        "lastUpdate": 1638271890.9270122,
-        "lastOrcidCount": 744
+        "lastUpdate": 1638288241.165775,
+        "lastOrcidCount": 745
     },
     {
         "name": "University College London - UCL",
@@ -734,7 +734,7 @@
         "grid": "grid.4991.5",
         "ror": "https://ror.org/052gg0110",
         "ringgold": "6396",
-        "lastUpdate": 1637274941,
+        "lastUpdate": 0,
         "lastOrcidCount": 0
     },
     {
@@ -743,7 +743,7 @@
         "grid": "grid.11201.33",
         "ror": "https://ror.org/008n7pv89",
         "ringgold": "6633",
-        "lastUpdate": 1638281292.2259798,
+        "lastUpdate": 1638288361.73348,
         "lastOrcidCount": 1653
     },
     {
@@ -752,7 +752,7 @@
         "grid": "grid.4701.2",
         "ror": "https://ror.org/03ykbk197",
         "ringgold": "6697",
-        "lastUpdate": 1638281387.931297,
+        "lastUpdate": 1638288471.452688,
         "lastOrcidCount": 1499
     },
     {
@@ -761,7 +761,7 @@
         "grid": "grid.9435.b",
         "ror": "https://ror.org/05v62cm79",
         "ringgold": "6816",
-        "lastUpdate": 1638281618.439005,
+        "lastUpdate": 1638288746.0983171,
         "lastOrcidCount": 3330
     },
     {
@@ -869,8 +869,8 @@
         "grid": "grid.12896.34",
         "ror": "https://ror.org/04ycpbx82",
         "ringgold": "4921",
-        "lastUpdate": 1638283729.660676,
-        "lastOrcidCount": 851
+        "lastUpdate": 1638288800.279362,
+        "lastOrcidCount": 852
     },
     {
         "name": "University of Wolverhampton",
@@ -905,7 +905,7 @@
         "grid": "grid.23695.3b",
         "ror": "https://ror.org/00z5fkj61",
         "ringgold": "41872",
-        "lastUpdate": 1637274985,
-        "lastOrcidCount": 162
+        "lastUpdate": 1638288810.444885,
+        "lastOrcidCount": 164
     }
 ]
