@@ -24,8 +24,8 @@ def generateCsvRow(orcid) :
     csvRow.append(getName(orcid))
     csvRow.append(getEmployments(orcid))
     csvRow.append(getEducations(orcid))
-    csvRow.append(getEmails(orcid))
     csvRow.append(getIds(orcid))
+    csvRow.append(getEmails(orcid))
     csvRow.append(getWorkCount(orcid))
     return csvRow
 
